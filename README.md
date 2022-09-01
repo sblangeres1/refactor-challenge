@@ -8,6 +8,6 @@ code together, to further clean up the code and make it less cluttered. Lastly I
 ## Deployed Page
 [URL of Deployed Application](https://sblangeres1.github.io/refactor-challenge/)
 
-[Screenshot](./assets/images/screenshot1.png)
-[Screenshot](./assets/images/screenshot2.png)
-[Screenshot](./assets/images/screenshot3.png)
+![Screenshot](./assets/images/screenshot1.png)
+![Screenshot](./assets/images/screenshot2.png)
+![Screenshot](./assets/images/screenshot3.png)
